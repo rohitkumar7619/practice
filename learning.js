@@ -16,6 +16,14 @@ let changeString = Number(score);
 // console.log(1+2+"3")
 // console.log("1"+2+3)
 
-console.log(null > 0);
-console.log(null == 0);
-console.log(null >= 0);
+// console.log(null > 0);
+// console.log(null === 0);
+// console.log(null >= 0);
+
+//primitive 
+
+//there are 7 types = string, number, boolean, null, undefined, symbols, BigInt
+
+// non primitive or Reference type
+
+// Array, Object, Functions
