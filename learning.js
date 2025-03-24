@@ -27,3 +27,6 @@ let changeString = Number(score);
 // non primitive or Reference type
 
 // Array, Object, Functions
+
+const name = "rohit";
+console.log(typeof name);
