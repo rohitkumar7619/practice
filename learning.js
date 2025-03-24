@@ -29,4 +29,15 @@ let changeString = Number(score);
 // Array, Object, Functions
 
 const name = "rohit";
-console.log(typeof name);
+console.log(name.toUpperCase());
+console.log(name.charAt(2));
+console.log(name.indexOf("i"));
+
+
+const name1 = "      rohit    ";
+
+console.log(name1);
+console.log(name1.trim());
+console.log(name1.trimEnd());
+console.log(name1.trimStart());
+console.log(name1.trimStart(2));
