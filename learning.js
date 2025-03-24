@@ -7,6 +7,15 @@ let changeString = Number(score);
 // console.log(typeof(changeString));
 // console.log(changeString);
 
-let negValue = -value;
+// let negValue = -value;
 
-console.log(negValue);
+// console.log(negValue);
+
+// console.log("1"+2);
+// console.log(1+3);
+// console.log(1+2+"3")
+// console.log("1"+2+3)
+
+console.log(null > 0);
+console.log(null == 0);
+console.log(null >= 0);
